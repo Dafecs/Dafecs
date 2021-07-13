@@ -14,3 +14,13 @@ It is our firm belief that technologies are meant to solve real world problems, 
 
 This is why we created Dafecs, a purpose-built public ledger to enable us to specifically solve challenges caused by friction in business coordination & decision-making processes.
 
+## [Get Involved!](https://docs.dafecs.com/#get-involved)
+
+If you're curious about our technology, check out the [Architecture ](https://docs.dafecs.com/tech-whitepaper/dafecs-architecture)section of our whitepaper. 
+
+If you wish to run a node, check out how you can [join our t](https://docs.dafecs.com/node-setup/getting_started)[estnet](https://docs.dafecs.com/node-setup/getting_started). 
+
+Our first application is live! Check out [First-App](www.dafecs.com). 
+
+## 
+
