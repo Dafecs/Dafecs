@@ -22,5 +22,5 @@ However, the block DAG topology isn’t without its own set of challenges, here 
 * Finality \(confirmation latency\)
 * Block efficiency - overlapping block contents
 
-Taraxa sets out to address these issues.
+Dafecs sets out to address these issues.
 
