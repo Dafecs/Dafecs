@@ -1,6 +1,8 @@
 ---
-description: Undercontsruction! Back soon..
+description: Thanks for dropping by the Dafecs Project!
 ---
 
-# Hi there👋
+# Welcome!
+
+What is Dafecs?
 
